@@ -1,13 +1,11 @@
-# Project Title
+## Nice to meet you!~ 😁
 
-## Introduction
-This project is designed to help users understand and implement various aspects of the project. It aims to provide insights into effective methodologies and best practices.
+I'm Grace, a fourth-year data science student at the University of South Florida interested in applied statistics for research in the biohub! 💚👩🏼‍💻🔬
 
-## What I'm Doing
-Currently, I am developing features that enhance user experience. You can check the project [here](https://github.com/gwhitehurstusf).
+### What I'm Doing
 
-## Contact Information
-For inquiries or feedback, please reach out at gwhitehurstusf@gmail.com.
-
----
-Last updated on 2026-02-17 16:56:30 UTC.
+- 🔭 **Currently working on:** [Multivariate Heart Disease Analysis](https://github.com/gwhitehurstusf/multivariate-heart-disease-analysis)
+- 🌊 **Currently learning:** How to apply foundational data science knowledge to form multivariate analysis using regression theory and normal distributions
+- 💚 **Active member:** Big Data Analytics Lab at USF, led by Professor Hagen
+- 👩🏼‍💻 **Ask me about:** What I think about the future of AI
+- 💌 **How to reach me:** gracewhitehurst@usf.edu
