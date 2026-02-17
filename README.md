@@ -1,11 +1,3 @@
-## Nice to meet you!~ 😁
+# Currently working on
 
-I'm Grace, a fourth-year data science student at the University of South Florida interested in applied statistics for research in the biohub! 💚👩🏼‍💻🔬
-
-### What I'm Doing
-
-- 🔭 **Currently working on:** My first independent research project, Multivariate Analysis of Cardiovascular Risk Factors
-- 🌊 **Currently learning:** How to apply foundational data science knowledge to form multivariate analysis using regression theory and normal distributions
-- 💚 **Active member:** Big Data Analytics Lab at USF, led by Professor Hagen
-- 👩🏼‍💻 **Ask me about:** What I think about the future of AI
-- 💌 **How to reach me:** gracewhitehurst@usf.edu
+- [Multivariate Heart Disease Analysis](https://github.com/username/multivariate-heart-disease-analysis)
