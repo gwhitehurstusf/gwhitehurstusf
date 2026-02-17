@@ -1,5 +1,8 @@
 ## <Nice to meet you!~ 😁>
 
+I'm Grace, a fourth-year data science student at the University of South Florida interested in applied statistics for research in the biohub! 💚👩🏼‍💻🔬 
+
+☀️ I'm currently working on my first independent research project, Multivariate Analysis of Cardiovascular Risk Factors. 
 
 <!--
 **gwhitehurstusf/gwhitehurstusf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
