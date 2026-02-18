@@ -1,6 +1,6 @@
 ## Nice to meet you!~ 😁
 
-I'm Grace, a fourth-year data science student at the University of South Florida interested in applied statistics for research in the biohub! 💚👩🏼‍💻🔬
+Hi! I'm Grace, a fourth-year data science student at the University of South Florida interested in applied statistics for research in the biohub! 💚👩🏼‍💻🔬
 
 ### What I'm Doing
 
