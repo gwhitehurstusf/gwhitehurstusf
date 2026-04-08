@@ -10,13 +10,13 @@ Hi! I'm Grace, a fourth-year data science student at the University of South Flo
   🔗 https://github.com/KaylenTon/NEMSIS_2024/blob/master/grace_ANOVA.R  
 
 - 🌊 **Currently learning:**  
-  Applying foundational data science concepts to multivariate analysis using regression theory and statistical distributions  
+  Advanced R Programming methods integrating matrix based concepts utilizing core foundations in programming for data analysis exploration & Text Mining analysis methods for better R Programming practice.  
 
 - 💚 **Active member:**  
   Big Data Analytics Lab at USF  
 
 - 👩🏼‍💻 **Ask me about:**  
-  The future of AI and its impact on healthcare and data science  
+  What I think about the future of AI and its impact on information science  
 
 - 💌 **How to reach me:**  
   gwhitehurst@usf.edu  
